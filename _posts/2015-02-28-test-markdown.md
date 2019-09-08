@@ -1,7 +1,7 @@
 ---
 layout: 
-title: 
-subtitle: 
+title: asking for advice and feedback
+subtitle: get to open up
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [asking_advice]
